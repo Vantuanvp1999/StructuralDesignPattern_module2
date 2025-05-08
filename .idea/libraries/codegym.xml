@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="codegym">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../thư viện/codegym-file-util/com/codegym" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
